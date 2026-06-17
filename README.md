@@ -53,14 +53,14 @@ Other demo users:
 
 ```json
 {
-  "email": "sadia@gmail.com",
+  "email": "mita@gmail.com",
   "password": "user123"
 }
 ```
 
 ```json
 {
-  "email": "afroja@gmail.com",
+  "email": "Ruhi@gmail.com",
   "password": "user123"
 }
 ```
